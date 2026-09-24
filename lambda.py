@@ -278,6 +278,6 @@ print(result)
 
 #49 Sort a list of tuples by second element using lambda
 
-x = [(1,2),(3,4),(5,6),(6,7),(8,9)]
-result = sorted(x,key=lambda x:x[1])
-print(result)
+# x = [(1,2),(3,4),(5,6),(6,7),(8,9)]
+# result = sorted(x,key=lambda x:x[1])
+# print(result)
