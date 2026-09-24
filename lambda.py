@@ -275,6 +275,8 @@ print(result)
 x = [1,2,3,4,5,6,7,8]
 result = reduce(lambda a,b:a if a>b else b,x)
 print(result)
+print(result)
+
 
 #49 Sort a list of tuples by second element using lambda
 
