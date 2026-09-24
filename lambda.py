@@ -277,6 +277,8 @@ result = reduce(lambda a,b:a if a>b else b,x)
 print(result)
 print(result)
 print(result)
+print(result)
+
 
 
 
